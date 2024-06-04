@@ -1,0 +1,79 @@
+.logos img{
+    width: 200px;
+}
+.nav-bar{
+    position: relative;
+    bottom:100px;
+    margin-left: 80vh;
+    bottom: 26vh;
+    
+}
+nav{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+
+}
+.connexion{
+    background-color: #FF6600;
+    height: 100px;
+    z-index: 1;
+    
+}
+.connexion h2{
+    position: relative;
+    left: 140vh;
+    color: #eff4f4;
+}
+.inter{
+    background-color: rgb(38, 144, 237);
+    position: relative;
+    bottom: 35px;
+}
+fieldset{
+    position: relative;
+    bottom: 40px;
+    margin: 10px;
+   width: 80vh; 
+   background-color: #eff4f4;
+   margin-left: 55px;
+   border: ridge;
+   border-radius: 70px 0 70px 0;
+  
+}
+legend{
+    position: relative;
+    text-align: center;
+}
+
+
+#pass {
+
+    width: 70vh;
+    height: 20px;
+}
+
+#email {
+
+    width: 70vh;
+    height: 20px;
+}
+
+button{
+    margin-left: 300px;
+    background-color: rgb(57, 61, 174);
+    height: 30px;
+    color: white;
+}
+
+
+

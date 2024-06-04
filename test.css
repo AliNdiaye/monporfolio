@@ -1,0 +1,93 @@
+.logos img{
+    width: 150px;
+    
+   
+}
+
+.tete {
+margin-bottom: -100px;
+}
+.Nav-menu{
+    position: relative;
+    bottom:100px;
+    margin-left: 80vh;
+    display: flex;
+    
+}
+
+.Nav-menu menu a{
+    list-style-type: none;
+}
+.connexion{
+    background-color: orangered;
+    height: 100px;
+    z-index: 0;
+    font-style: bolder;
+    position: relative;
+    top: 20px;
+    
+}
+.inter{
+    background-color: rgb(38, 144, 237);
+    position: relative;
+    bottom:30px ;
+    height: 100vh;
+}
+fieldset{
+    position: relative;
+    bottom:  70vh;
+    margin: 10px;
+   width: 60vh; 
+   background-color: #eff4f4;;
+   margin-left: 55px;
+   border-radius: 75px 0 75px 0;
+  
+}
+.inter img{
+    width: 80vh;
+    position: relative;
+    left: 120vh;
+    top:30px;
+    border-radius: 85px 0 85px 0;
+}
+
+
+#pass {
+
+    width: 70vh;
+    height: 20px;
+}
+
+#email {
+
+    width: 70vh;
+    height: 20px;
+}
+
+button{
+    margin-left: 300px;
+    background-color: rgb(57, 61, 174);
+    height: 30px;
+    color: white;
+    border-radius: 15px;
+}
+
+.connexion h2{
+    margin-left: 160vh;
+    color: #eff4f4;
+}
+
+form h3{
+    text-align: center;
+}
+
+form h4{
+    text-align: center;
+}
+
+input{
+    border-radius: 15px;
+}
+    
+
+
